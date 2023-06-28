@@ -1,7 +1,9 @@
 {
+  "name": "ChatApp",
+  "displayName": "ChatApp",
   "expo": {
-    "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "name": "ChatApp",
+    "slug": "ChatApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
